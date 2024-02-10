@@ -9,5 +9,5 @@ just run the entry file to start web application
 
 
 # how to use pretrained-models
-- go to https://civitai.com/ and download models
+- go to https://civitai.com/ and download models, such as `chilloutmix_NiPrunedFp32Fix.safetensors`
 - place model to `stable-diffusion-webui/models/Stable-diffusion`, then you can see the models in the options of input field `Stable Diffusion checkpoint` in the website
